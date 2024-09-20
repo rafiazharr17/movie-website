@@ -1,6 +1,6 @@
-# MovieFlix
+# Cloud Hotstar
 
-MovieFlix adalah aplikasi web yang memungkinkan pengguna untuk menjelajahi dan menemukan film-film terbaru dan populer. Dibangun dengan React dan memanfaatkan API The Movie Database (TMDb), aplikasi ini menyediakan antarmuka yang intuitif untuk pencarian dan eksplorasi film.
+Cloud Hotstar adalah aplikasi web yang memungkinkan pengguna untuk menjelajahi dan menemukan film-film terbaru dan populer. Dibangun dengan React dan memanfaatkan API The Movie Database (TMDb), aplikasi ini menyediakan antarmuka yang intuitif untuk pencarian dan eksplorasi film.
 
 ## Fitur
 
@@ -21,14 +21,14 @@ MovieFlix adalah aplikasi web yang memungkinkan pengguna untuk menjelajahi dan m
 
 ## Instalasi
 
-Untuk menjalankan MovieFlix di mesin lokal Anda, ikuti langkah-langkah berikut:
+Untuk menjalankan Cloud Hotstar di mesin lokal Anda, ikuti langkah-langkah berikut:
 
 1. Pastikan Anda telah menginstal Node.js (versi 14 atau lebih baru).
 
 2. Clone repositori ini:
    ```
    git clone https://github.com/FakriSouyo/my-movie-website.git
-   cd movieflix
+   cd Cloud Hotstar
    ```
 
 3. Instal dependensi:
